@@ -1,5 +1,6 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=7000&color=FFD700&center=true&vCenter=true&width=600&repeat=true&lines=THE+CURIOUS+SOUL" alt="THE CURIOUS SOUL" /></div>
 
+
 "Hi! I am Sneha, a dual-degree undergrad student studying Electronics from IIT MADRAS & Computer from RANCHI WOMEN"S COLLEGE, blending the technical precision of Electronics with the creative problem-solving of Computer Applications. I don't just manage inventory; I optimize it with a creative edge."
 
 ## Tech Stack & Tools
