@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:191919,100:30220D&height=180&section=header&text=The%20Curious%20Soul&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=50&descAlignY=75&descSize=15" width="100%"/>
+<h1 align="center">✨ 𝐓𝐇𝐄 𝐂𝐔𝐑𝐈𝐎𝐔𝐒 𝐒𝐎𝐔𝐋 ✨</h1>
 
 ## Sneha Sinha
 "A dual-degree student blending the technical precision of Electronics with the creative problem-solving of Computer Applications." I don't just manage inventory; I optimize it with a creative edge. Born to learn and built. 
