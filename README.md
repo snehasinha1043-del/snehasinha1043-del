@@ -3,12 +3,6 @@
 ## Sneha Sinha
 "A dual-degree student blending the technical precision of Electronics with the creative problem-solving of Computer Applications." I don't just manage inventory; I optimize it with a creative edge. Born to learn and built. 
 
-## Hobbies
-- Playing Chess
-- Love to solve Sudoku
-- Basketball & Badminton
-- Drawing & Abstract
-
 ## Tech Stack & Tools
 
 - Languages: Python, C, C++, Java
@@ -21,6 +15,12 @@
 - **AirDraw** — An application that lets users draw in the air using hand gestures and computer vision.
 - **Spectral Leakage Analyzer** — An interactive Streamlit application exploring windowing effects on spectral leakage.
 - **3-Band Graphic Equalizer** — An electronics project designed to process audio signals at 500 Hz, 1 kHz, and 5 kHz.
+
+## Hobbies
+- Playing Chess
+- Love to solve Sudoku
+- Basketball & Badminton
+- Drawing & Abstract
 
 ## Connect with me
 
