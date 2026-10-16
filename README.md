@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=THE+CURIOUS+SOUL" alt="THE CURIOUS SOUL" /></div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=400&pause=7000&color=FFD700&center=true&vCenter=true&width=600&repeat=true&lines=THE+CURIOUS+SOUL" alt="THE CURIOUS SOUL" />
 
 ## Sneha Sinha
 "A dual-degree student blending the technical precision of Electronics with the creative problem-solving of Computer Applications." I don't just manage inventory; I optimize it with a creative edge. Born to learn and built. 
